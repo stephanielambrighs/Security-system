@@ -1,0 +1,48 @@
+body{
+    box-sizing: border-box;
+}
+
+nav.navbar.navbar-expand-lg.navbar.navbar-dark.bg-primary {
+    background-color: #475bf3 !important;
+}
+
+table.table.table-striped {
+    width: 1000px;
+    margin-top: 1em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+thead {
+    background-color: #6D7AE0;
+    margin-left: 0;
+    padding-left: 0;
+    color: white;
+}
+
+td, .row  {
+    background-color: #F8F7FF;
+}
+
+.row {
+    margin-left: 0;
+}
+
+h2{
+    margin: 1.5em;
+    color:#6D7AE0;
+    text-align: center;
+}
+
+h3 {
+    color:#6D7AE0;
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+
+.btn-detection {
+    text-align: center;
+    margin-top: 5em;
+    margin-bottom: 5em;
+}
